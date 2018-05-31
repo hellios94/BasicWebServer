@@ -1,0 +1,11 @@
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.csprojResolveAssemblyReference.cache
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.AssemblyInfoInputs.cache
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.AssemblyInfo.cs
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\bin\Debug\netcoreapp2.0\BasicWebServer.deps.json
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\bin\Debug\netcoreapp2.0\BasicWebServer.runtimeconfig.json
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\bin\Debug\netcoreapp2.0\BasicWebServer.runtimeconfig.dev.json
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\bin\Debug\netcoreapp2.0\BasicWebServer.dll
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\bin\Debug\netcoreapp2.0\BasicWebServer.pdb
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.dll
+C:\Users\Pondy\Documents\Visual Studio 2017\Projects\HTTPWebServer\BasicWebServer\obj\Debug\netcoreapp2.0\BasicWebServer.pdb
